@@ -1,3 +1,3 @@
 # MyNewRepo
 My first repository
-My commit
+My first commit
